@@ -1,0 +1,5 @@
+﻿  Array_Subnet.cpp
+c:\users\mehme\onedrive\masaüstü\projeler\array_subnet\array_subnet\array_subnet\array_subnet.cpp(10): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+c:\users\mehme\onedrive\masaüstü\projeler\array_subnet\array_subnet\array_subnet\array_subnet.cpp(122): warning C4553: '==': ifade sonucu kullanılmıyor; '=' kullanmak mı istediniz?
+c:\users\mehme\onedrive\masaüstü\projeler\array_subnet\array_subnet\array_subnet\array_subnet.cpp(156): warning C4553: '==': ifade sonucu kullanılmıyor; '=' kullanmak mı istediniz?
+  Array_Subnet.vcxproj -> C:\Users\mehme\OneDrive\Masaüstü\Projeler\Array_Subnet\Array_Subnet\Debug\Array_Subnet.exe
